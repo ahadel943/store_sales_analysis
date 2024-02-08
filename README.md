@@ -73,11 +73,17 @@ After cleaning, preparing and understanding the data found the following notes
 
 6) The Teenager Age-Group has the lowest count of orders totaling 2,699 orders and the lowest profit totaling $190,549 .
 
+![orders count by customer gender](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/orders_count_by_customer_gender.jpg)
+
 7) The Male customers are slightly higher than the Female cutomers.
+
+![total profit by country](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/total_profit_by_country.jpg)
 
 8) United States generates the highest profit totaling $1,630,561 followed by Germany with total of $1,096,337 
 
 9) United Kingdom has the least profitable market with a profti of $543,313 
+
+![total profit by state](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/total_profit_by_state.jpg)
 
 10) California has the lead in profit generating with a total of $915,596 followed by England with a total of $543,313 
 
@@ -85,19 +91,27 @@ After cleaning, preparing and understanding the data found the following notes
 
 12) Florida, Massachusetts and Arizona generate a negative ncome.
 
+![total profit per product category](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/total_profit_per_product_category.jpg)
+
 13) The Accessories product category leads in profit generation in all markets totaling $2,403,246
+
+![total profit per country and product category](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/total_profit_per_country_and_product_category.jpg)
 
 14) In United States and United Kingdom, The Accessories product category generates generates the highest profit  followed by Clothing then Bikes.
 
 15) In France and Germany, The Accessories product category leads the profit generation followed by Bikes then Clothing.
 
-16) - Accessories is the most profitable product category with a total of $2,403,246 followed by Clothing with a total of $765,741
+16) Accessories is the most profitable product category with a total of $2,403,246 followed by Clothing with a total of $765,741
 
 17) Bikes is the least profitable product category totaling $705,150 
+
+![total profit per sub category](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/total_profit_per_sub_category.jpg)
 
 18) Tires and Tubes is the most profitable sub category totaling $1,098,612 followed by Helmets with a total of $687,908
 
 19) Socks is the least profitable sub category with a total of $16,381
+
+![kpis](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/kpis.jpg)
 
 20) An orders count of 4,476 orders caused profit loss totaling -$474,468 
 
