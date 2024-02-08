@@ -51,7 +51,7 @@ After cleaning, preparing and understanding the data found the following notes
 | Profit/Loss | 34,866 | TEXT |
 
 ## Conclusions
-![total profit per year](https://github.com/ahadel943/supermarket_sales_analysis/blob/main/assets/gender_distribution.jpg](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/total_profit_per_year.jpg)
+![total profit per year](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/total_profit_per_year.jpg)
 1) Based on our data 2016 is more profitable with $2,711,758.34, while 2015 with  $1,162,379 .
 
 2) There is a 42.8% increase in profit.
