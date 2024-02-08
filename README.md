@@ -1,4 +1,4 @@
-# Sales Analysis
+# Store Sales Analysis
 
 ## Introduction
 
