@@ -56,6 +56,7 @@ After cleaning, preparing and understanding the data found the following notes
 
 2) There is a 42.8% increase in profit.
 
+![total profit per month](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/total_profit_per_month.jpg)
 3) The most profitable month is June with total profit of $518,403 while September is the least profitable month with $182,773 .
 
 4) Sunday is most profitable day of the week with total profit of $608,751 while the least profitable day is  Thursday with total profit of $518,459 .
