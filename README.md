@@ -65,6 +65,10 @@ After cleaning, preparing and understanding the data found the following notes
 
 4) Sunday is most profitable day of the week with total profit of $608,751 while the least profitable day is  Thursday with total profit of $518,459
 
+![total profit per age group](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/total_profit_per_age_group.jpg)
+
+![orders count per age group](https://github.com/ahadel943/store_sales_analysis/blob/main/charts/orders_count_per_age_group.jpg)
+
 5) The Youth Age-Group has the highest count of orders totaling 27,376 orders and generates the highest profit totaling $3,133,332 followed by the Old Age-Group totaling 4,791 orders and proift of $550,256 .
 
 6) The Teenager Age-Group has the lowest count of orders totaling 2,699 orders and the lowest profit totaling $190,549 .
